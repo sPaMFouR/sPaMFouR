@@ -1,6 +1,6 @@
 Hi, I'm Avinash Singh!
 
-I'm currently an Assistant Professor at Hiroshima University, Japan. Visit my [Website](https://spamfour.github.io) to know more. 
+I'm currently an Assistant Professor at Hiroshima University, Japan. Visit my [website](https://spamfour.github.io) to know more. 
 
 I'm an Observational Astronomer and Asrophysicist with a passion for Astrophotography. In my pastime, I like to code to speed up my data reduction workflow.
 
